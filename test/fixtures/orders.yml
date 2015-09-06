@@ -1,0 +1,31 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  number: MyString
+  item_total: 1.5
+  delivery_total: 1.5
+  net_total: 1.5
+  item_count: 1
+  billing_address_id: 1
+  shipping_address_id: 1
+  state: MyString
+  placed_at: 2015-09-06 17:15:21
+  shipped_at: 2015-09-06 17:15:21
+  delivered_at: 2015-09-06 17:15:21
+  cancel_requested_at: 2015-09-06 17:15:21
+  cancel_approved_at: 2015-09-06 17:15:21
+
+two:
+  number: MyString
+  item_total: 1.5
+  delivery_total: 1.5
+  net_total: 1.5
+  item_count: 1
+  billing_address_id: 1
+  shipping_address_id: 1
+  state: MyString
+  placed_at: 2015-09-06 17:15:21
+  shipped_at: 2015-09-06 17:15:21
+  delivered_at: 2015-09-06 17:15:21
+  cancel_requested_at: 2015-09-06 17:15:21
+  cancel_approved_at: 2015-09-06 17:15:21

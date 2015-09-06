@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  customer_id: 1
+  current_order_id: 1
+  state: MyString
+  last_used_at: 2015-09-06 17:12:55
+
+two:
+  customer_id: 1
+  current_order_id: 1
+  state: MyString
+  last_used_at: 2015-09-06 17:12:55

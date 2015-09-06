@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  sku: MyString
+  cost_price: 1.5
+  deleted_at: 2015-09-06 17:12:02
+  variant_attributes: MyText
+  product_id: 1
+
+two:
+  sku: MyString
+  cost_price: 1.5
+  deleted_at: 2015-09-06 17:12:02
+  variant_attributes: MyText
+  product_id: 1

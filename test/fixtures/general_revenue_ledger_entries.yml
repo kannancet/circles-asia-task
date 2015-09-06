@@ -1,0 +1,17 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  product_line_id: 1
+  product_id: 1
+  debit_amount: 1.5
+  credit_amount: 1.5
+  entreable_type: MyString
+  entreable_id: 1
+
+two:
+  product_line_id: 1
+  product_id: 1
+  debit_amount: 1.5
+  credit_amount: 1.5
+  entreable_type: MyString
+  entreable_id: 1
