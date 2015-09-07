@@ -11,7 +11,7 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 20150906173216) do
+ActiveRecord::Schema.define(version: 20150907054837) do
 
   create_table "delivery_service_provider_invoices", force: :cascade do |t|
     t.integer  "delivery_service_provider_id"
@@ -22,6 +22,7 @@ ActiveRecord::Schema.define(version: 20150906173216) do
     t.string   "status"
     t.datetime "created_at",                   null: false
     t.datetime "updated_at",                   null: false
+    t.datetime "paid_on"
   end
 
   create_table "delivery_service_providers", force: :cascade do |t|
